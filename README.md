@@ -21,7 +21,7 @@ LocalSOCKS5Proxy is a minimal, Python-based SOCKS5 proxy server designed for use
 ## Installation:
 Clone the repository and run the proxy using Python:
 ```bash
-git clone https://github.com/your-username/LocalSOCKS5Proxy.git
+git clone https://github.com/marksowell/LocalSOCKS5Proxy.git
 cd LocalSOCKS5Proxy
 python LocalSOCKS5Proxy.py
 ```
